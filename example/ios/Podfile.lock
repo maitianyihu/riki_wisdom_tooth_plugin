@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - riki_wisdom_tooth_plugin (0.0.1):
+    - Flutter
+    - SobotKit
+  - SobotKit (2.9.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - riki_wisdom_tooth_plugin (from `.symlinks/plugins/riki_wisdom_tooth_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - SobotKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  riki_wisdom_tooth_plugin:
+    :path: ".symlinks/plugins/riki_wisdom_tooth_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  riki_wisdom_tooth_plugin: a101affaef002c59a1eddbf80e1bf20408719b5b
+  SobotKit: 49a2a26445b98de766415769b6381ae95706a43e
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
